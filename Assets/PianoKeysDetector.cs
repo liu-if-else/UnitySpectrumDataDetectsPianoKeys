@@ -86,8 +86,8 @@ public class PianoKeysDetector : MonoBehaviour
         }
     }
 
-    //should be:C4 C#4 D4 D#4 E4 F4 F#4 G4 G#4 A4 A#4 A4 G#4 G4 F#4 F4 E4 D#4 D4 C#4 C4
-    //          40 41  42 43  44 45 46  47 48  49 50  49 48  47 46  45 44 43  42 41  40
+    //should be:C4 C#4 D4 D#4 E4 F4 F#4 G4 G#4 A4 A#4 B4 C5 B4 A#4 A4 G#4 G4 F#4 F4 E4 D#4 D4 C#4 C4
+    //          40 41  42 43  44 45 46  47 48  49 50  51 52 51 50  49 48  47 46  45 44 43  42 41  40
     List<int> testResults = new List<int>();
     void TestResult(int val)
     {
