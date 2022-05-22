@@ -1,0 +1,1 @@
+/Users/yliu/PianoKeyDetection/obj/Debug/Unity.VisualStudio.Editor.csproj.CoreCompileInputs.cache

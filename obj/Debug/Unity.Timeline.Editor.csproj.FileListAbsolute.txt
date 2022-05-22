@@ -1,0 +1,2 @@
+/Users/yliu/PianoKeyDetection/obj/Debug/Unity.Timeline.Editor.csprojResolveAssemblyReference.cache
+/Users/yliu/PianoKeyDetection/obj/Debug/Unity.Timeline.Editor.csproj.CoreCompileInputs.cache

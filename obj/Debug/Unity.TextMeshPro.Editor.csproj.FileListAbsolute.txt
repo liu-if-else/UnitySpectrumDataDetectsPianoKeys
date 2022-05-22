@@ -1,0 +1,2 @@
+/Users/yliu/PianoKeyDetection/obj/Debug/Unity.TextMeshPro.Editor.csprojResolveAssemblyReference.cache
+/Users/yliu/PianoKeyDetection/obj/Debug/Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
